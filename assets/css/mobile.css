@@ -1,0 +1,504 @@
+@media (max-width:998px){
+    h4{
+        font-size: 22px !important;
+    }
+    .history-content h3, .our_achieve h2{
+        font-size: 22px
+    }
+    .addr, .addr1, .addr2{
+        padding: 30px 35px;
+        position: relative;
+        left: 0em;
+        right:0em;
+        float: none;
+        width: 90%;
+    }
+    .addr,.addr1, .addr2{
+        top: 0em;
+        margin-bottom: 4px;
+    }
+    .my-icon img{
+        width: 30px;
+        height: 30px;
+    }
+    .my-icon{
+        position: absolute;
+        top: 2.5em;
+        left: 22em;
+        float: right;
+        z-index: 99999;
+    }
+    .history-content, .slider-for, .career {
+        padding: 15px !important;
+    }
+    .career-form{
+        padding: 15px 15px;
+        width: 100%;
+        margin: 0px auto;
+    }
+    .career-form label{
+        font-size: 15px;
+    }
+    .career{
+        margin-left: 0%;
+        margin-right: 0%;
+        margin-bottom: -20px !important;
+    }
+    .car-div{
+        height: 42rem !important;
+    }
+    .car-div2{
+        height: 44rem !important;
+    }
+    .teacherr{
+        width: 90%;
+        margin:0 auto;
+        margin-top: 50px;
+        padding: 10px;
+    }
+    .teacherr h4{
+        top:6em
+    }
+    .teacherr .immg{
+        left: 6em;
+        right: 8em;
+    }
+    .teachers{
+        margin-top: 10px;
+    }
+    .second-div{
+        height: 14em;
+        width: 100%;  
+        margin-top: 2px;
+        margin-left: 0px;
+    }
+    .more-contact, .founder-why{
+        margin-top: 70px !important;
+    }
+    .more-contact h2{
+        font-size: 25px !important;
+    }
+    .more-about2{
+        margin-top: 100px  !important;
+    }
+    .more-about:before, .more-about2:before {
+        content: '';
+        position:normal;
+        top: 0; right: 0;
+        border-bottom: none !important;
+        border-left:none !important;
+        width: 0;
+    }
+    
+    .more-about2,  .more-about{
+        padding: 20px 20px 20px 20px;
+    }
+    .learn-course{
+        padding: 25px  !important;
+    }
+    .learn-course .container{
+        opacity: 1;
+        padding: 10px;
+
+    }
+    .learn-course .container form input[type=text]{
+        /* padding: 27px 50px 27px 50px; */
+        width: 80%;
+        margin: 0 auto;
+        
+    }
+    .learn-course .container form button{
+        margin: 0 auto;
+        /* margin-bottom: -10px; */
+    }
+    .teacherrs .divv{
+        margin-top: 60px;
+    }
+    .learn-course h2{
+        font-size: 25px;
+        margin-top: 20px;
+    }
+    .why-choose{
+        padding: 30px 10px 30px 10px;
+    }
+    .founder .container{
+        padding: 0px;
+    }
+    .sub-why-founder, .online-course {
+        margin-top: 10px;
+    }
+    .online-course{
+        padding: 30px;
+        text-align: justify;
+    }
+    .founder .container img{
+        margin-left: 20px;
+    }
+    .teacherr{
+        padding: 10px;
+        margin-bottom: 50px;
+    }
+
+    .carousel-caption button{
+        padding: 0px 0px 0px 0px;
+        font-size: 16px;
+    }
+    .single-item img{
+       
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    
+    .lifecamp {
+        margin-top: 30px;
+    }
+    .announce{
+        font-size: 13px;
+    }
+    .sub-head button{
+        font-size: 14px;
+    }
+    .faq-right{
+        height: 30rem;
+    }
+    .lifecamp{
+        margin-top: 70px;
+    }
+    .news-colon{
+        margin-top: 20px;
+    }
+    .carousel-caption{
+        margin-top: -150px;
+        width: 80% !important;
+        left:3rem !important;
+    }
+    .carousel-caption h1{
+        font-size: 20px;
+    }
+    .carousel-caption button{
+        padding: 5px 10px 5px 10px;
+    }
+    .box{
+        margin-left: 42%;
+    }
+   .ad-btn{
+       margin-left: 10%;
+   }
+   .teacherrr img{
+    left: 8.5em;
+    right: 8.5em;
+    }
+    .teacherrr h4{
+        top:4em
+    }
+    .our_story{
+        left: 12em;
+        width: 40%;
+        font-size: 18px;
+    }
+    .mobile-teach{
+        display: none;
+        
+    }
+    .achieve_right, .achieve_right2{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .achieve_right img, .achieve_right2 img{
+        position: relative;
+        width: 98%;
+        height: 14rem;
+        float: none;
+        left:0rem;
+        right: 0rem;
+        top: 0em;
+        margin:0% auto;
+    }
+    .upload_form img{
+        margin-bottom: 20px;
+    }
+    .mob-john{
+        margin-top: -30px !important;
+    }
+    .our_achieve .nav-item a{
+        padding: 5px 15px 5px 15px;
+    }
+    .our_achieve .nav-item {
+        margin-top: 6px;
+        
+    }
+    .mobile-edit .teacherr h4{
+        top:7em !important
+    }
+    .mobile-edit1 .teacherr h4{
+        top:7em !important;
+        
+    }
+    .mobile-edit1 .teacherr img{
+        left:7em
+    }
+    body{
+        overflow-x: hidden !important;
+    }
+    
+}
+
+@media (min-width:440px) and (max-width: 450px){
+    .mobile-edit1 .teacherr img{
+        left:8.5em !important;
+    }
+  }
+@media (min-width:300px) and (max-width:360px){
+    .teacherrr img{
+        left: 8em  !important;
+        right:8em  !important;
+    }
+    .mobile-edit1 .teacherr img{
+        left:6em !important;
+    }
+    .why-choose{
+        margin-top: 340px;
+    }
+    .my-icon{
+       
+        left: 19em;
+    }
+    .mobile-edit .teacherr img, .mobile-edit1 .teacherr img{
+        left:7em
+    }
+    .single-item .slick-prev, .single-item .slick-next{
+        top: 190px !important;
+    }
+    .single-item p{
+        margin-top: 0px  !important;
+    }
+    .student-info .teacherr, .student-info .second-div {
+        width:18rem !important;
+    }
+   
+   
+}
+@media  (min-width:300px) and (max-width:500px){
+    .Talk{
+        margin-top: 30px;
+    }
+   .autoplay{
+       padding: 5px !important;
+   }
+   .carousel-control-prev, .carousel-control-next, .announce{
+       display: none !important;
+   }
+    .main-more div{
+        font-size: 15px;
+    }
+    .why-choose h4, h2{
+        font-size: 20px;
+    }
+    .sub-why-founder{
+        margin-top: 0px !important;
+    }
+    .faq-right{
+        padding: 70px 30px 30px 30px;
+        height: 35rem;
+    }
+    .lifecamp h3{
+        font-size: 20px;
+    }
+    .Talk, .news {
+        padding: 20px;
+    }
+    .teacherrs{
+        margin-top: 10px;
+    }
+    
+   
+    .recent_news img{
+        width: 40px !important;
+        height: 40px;
+    }
+    .footer{
+        padding: 20px 10px;
+        
+    }
+    .foot_img{
+        width: 120px;
+    }
+    
+     .single-item p{
+         font-size:13px;
+         margin-top: 0px;
+     }
+    .single-item .slick-prev, .single-item .slick-next{
+        top: 196px !important;
+    }
+    .single-item .slick-prev{
+        left: 60px !important;
+    }
+    .single-item .slick-next{
+        left: 155px !important;
+        margin-left: 5px;
+    }
+   
+   
+}
+@media  (min-width:376px) and (max-width:414px){
+    .teacherrr img{
+        left: 9.5em;
+        right: 9.5em;
+    }
+    .option-founder1{
+        left: 4em;
+        right: 4em;
+    }
+    
+    .option-founder2{
+        left: 7.5em;
+        right: 7.5em;
+    }
+    .option-founder3{
+        left: 11em;
+        right: 11em;
+    }
+    .option-founder4{
+        left: 15em;
+        right: 15em;
+    }
+    .Talk{
+        margin-top: 60px;
+    }
+    .my-icon{
+       
+        left: 24em;
+    }
+
+}
+@media  (min-width:376px) and (max-width:560px){
+    .teacherr .immg{
+        left: 9em;
+        right: 9em;
+    }
+    .accordion{
+        height: 70vh;
+        padding: 10px !important;
+    }
+    .lifecamp{
+        margin-top: 30px;
+    }
+   
+
+}
+@media  (min-width:360px) and (max-width:375px){
+    .our_story{
+        left: 13em;
+        width: 40%;
+        font-size: 15px;
+        padding: 10px;
+    }
+    
+    .teacherr .immg{
+        left: 8em;
+        right: 8em;
+    }
+    .lifecamp{
+        margin-top: 25px;
+    }
+}
+@media screen and (max-height: 450px) {
+    .sidebar {overflow-y: auto;}
+    
+  }
+  @media  (min-width:760px) and (max-width:800px){
+      .right-contact{
+          margin-top: 30px;
+      }
+    .achieve_right img, .achieve_right2 img{
+        height: 18rem;
+    }
+    .career-form{
+        padding: 50px 30px 20px 30px;
+    }
+    .car-div{
+        height: 37rem !important;
+    }
+    .carousel-caption{
+        margin-top: 0px;
+        width: 70% !important;
+        left:7rem !important;
+    }
+    .carousel-caption h1{
+        font-size: 30px;
+    }
+    .carousel-caption button{
+        padding: 20px;
+    }
+    .why-choose{
+        margin-top: 30px;
+    }
+    .sub-why-founder{
+        margin-top: 0px !important;
+    }
+    .learn-course .container{
+        padding: 50px;
+    }
+    .learn-course .container form input[type=text]{
+        /* padding: 27px 50px 27px 50px; */
+        width: 90%;
+        margin: 0% 5% 0% 5%;  
+    }
+    .footer{
+        padding-top: 40px ;
+    }
+    .footer .navbar-brand img{
+        width: 100px;
+    }
+    .recent_news img{
+        width: 60px;
+    }
+    .option-founder1{
+        left: 4em;
+        right: 4em;
+    }
+    
+    .option-founder2{
+        left: 7.5em;
+        right: 7.5em;
+    }
+    .option-founder3{
+        left: 11em;
+        right: 11em;
+    }
+    .option-founder4{
+        left: 15em;
+        right: 15em;
+    }
+    .lifecamp h3{
+        /* margin-top: 40px; */
+    }
+    .Talk{
+        margin-top: 170px;
+    }
+    .single-item p{
+        font-size:17px;
+    }
+    .single-item{
+        /* overflow-x: hidden;
+        box-sizing: border-box; */
+    }
+  
+   .single-item .slick-prev{
+       left: 170px !important;
+   }
+   .single-item .slick-next{
+       left: 235px !important;
+       margin-left: 25px;
+   }
+  }
+  @media only screen and (min-width: 992px) {
+    /* .autoplay .slick-prev {
+        left: 45% !important;
+    }
+    .autoplay .slick-next {
+        right: 46% !important;
+    }
+     */
+}
